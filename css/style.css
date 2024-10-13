@@ -30,6 +30,17 @@
 
 
 /* -----------------Sección Nosotros---------------------*/
+#features{
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+.feature-icon{
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
 
 
 
